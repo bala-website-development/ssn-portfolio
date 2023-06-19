@@ -73,7 +73,10 @@ body {
 body.ajax-page-visible {
   overflow: hidden;
 }
-
+.d-none
+{
+  display: none;
+}
 a {
   color: #466841;
   text-decoration: none;
