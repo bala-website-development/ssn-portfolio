@@ -78,7 +78,7 @@ body.ajax-page-visible {
   display: none;
 }
 a {
-  color: #466841;
+  color: #283747;
   text-decoration: none;
   outline: none;
   -webkit-transition: all 0.3s ease-in-out;
@@ -192,7 +192,7 @@ textarea.form-control:focus {
   left: 50%;
   right: 50%;
   bottom: 0;
-  background: #466841;
+  background: #283747;
   height: 2px;
   -webkit-transition: all 0.3s ease-in-out;
   -moz-transition: all 0.3s ease-in-out;
@@ -297,7 +297,7 @@ textarea.form-control:focus {
 }
 
 .form-group-with-icon.form-group-focus i {
-  color: #466841;
+  color: #283747;
 }
 /* /Form controls */
 
@@ -340,7 +340,7 @@ input[type="submit"] {
 button,
 input[type="button"],
 input[type="submit"] {
-  background-color: #466841;
+  background-color: #283747;
   color: #fff;
   border: 0;
   box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1), 0 2px 4px rgba(0, 0, 0, 0.3);
@@ -367,11 +367,11 @@ input[type="submit"]:hover {
 /* / buttons */
 
 .border-top {
-  border-top: 2px solid #466841;
+  border-top: 2px solid #283747;
 }
 
 .border-bottom {
-  border-bottom: 2px solid #466841;
+  border-bottom: 2px solid #283747;
 }
 
 /* Footer */
@@ -448,7 +448,7 @@ body > footer .copyrights {
 
 .preloader-spinner:after {
   border-color: transparent;
-  border-top-color: #466841;
+  border-top-color: #283747;
   -webkit-animation: rotation 0.82s infinite cubic-bezier(0.6, 0.3, 0.3, 0.6);
   animation: rotation 0.82s infinite cubic-bezier(0.6, 0.3, 0.3, 0.6);
 }
@@ -658,7 +658,7 @@ body > footer .copyrights {
 }
 
 .site-title span {
-  color: #466841;
+  color: #283747;
 }
 
 .header.sticked .site-title {
@@ -733,7 +733,7 @@ body > footer .copyrights {
   width: 0;
   height: 2px;
   margin: 0 auto;
-  background-color: #466841;
+  background-color: #283747;
   -webkit-transition: all 0.15s ease-in-out;
   -moz-transition: all 0.15s ease-in-out;
   -o-transition: all 0.15s ease-in-out;
@@ -794,7 +794,7 @@ body > footer .copyrights {
 }
 
 .block-title h3 span {
-  color: #466841;
+  color: #283747;
 }
 
 .custom-page-content .block {
@@ -815,7 +815,7 @@ body > footer .copyrights {
 }
 
 .custom-page-content .page-header.color-1 {
-  background-color: #466841;
+  background-color: #283747;
   background-image: url(../images/sp_main_bg.png);
   background-size: cover;
   -webkit-background-size: cover;
@@ -843,7 +843,7 @@ body > footer .copyrights {
 ======================================= */
 .start-page-content .page-header {
   position: relative;
-  background-color: #466841;
+  background-color: #283747;
   padding: 50px;
   margin-bottom: 25px;
   background-image: url(../images/sp_main_bg.png);
@@ -982,7 +982,7 @@ body > footer .copyrights {
   margin-left: 20px;
   margin-bottom: 20px;
   background-color: #fff;
-  border-left: 2px solid #466841;
+  border-left: 2px solid #283747;
   box-shadow: 0px 0px 3px 0px rgba(0, 0, 0, 0.2);
 }
 
@@ -1004,7 +1004,7 @@ body > footer .copyrights {
   height: 12px;
   top: 20px;
   left: -29px;
-  border: 2px solid #466841;
+  border: 2px solid #283747;
   z-index: 2;
 }
 
@@ -1012,7 +1012,7 @@ body > footer .copyrights {
   content: "";
   display: inline-block;
   position: absolute;
-  background-color: #466841;
+  background-color: #283747;
   border-radius: 10px;
   width: 29px;
   height: 2px;
@@ -1032,7 +1032,7 @@ body > footer .copyrights {
   display: inline-block;
   font-size: 12px;
   line-height: 1.2em;
-  color: #466841;
+  color: #283747;
   margin-bottom: 8px;
 }
 
@@ -1071,7 +1071,7 @@ body > footer .copyrights {
 }
 
 .skill-percentage {
-  background-color: #466841;
+  background-color: #283747;
   height: 10px;
   padding: 0;
 }
@@ -1175,7 +1175,7 @@ body > footer .copyrights {
   font-size: 48px;
   line-height: 80px;
   color: #fff;
-  background-color: #466841;
+  background-color: #283747;
   width: 80px;
   height: 80px;
   border-radius: 100px;
@@ -1250,7 +1250,7 @@ body > footer .copyrights {
   font-weight: 400;
   display: block;
   margin: 10px 0;
-  color: #466841;
+  color: #283747;
 }
 /* /Fun Facts */
 
@@ -1298,7 +1298,7 @@ body > footer .copyrights {
   padding: 2.2em 1.2em 1.5em;
   font-style: italic;
   border: 1px solid #e0e0e0;
-  border-top: 2px solid #466841;
+  border-top: 2px solid #283747;
   width: 100%;
   position: relative;
   margin: 0;
@@ -1382,7 +1382,7 @@ body > footer .copyrights {
   content: "";
   height: 2px;
   margin-top: 0;
-  background-color: #466841;
+  background-color: #283747;
   position: absolute;
   left: 0;
   bottom: -3px;
@@ -1456,7 +1456,7 @@ body > footer .copyrights {
 
 .portfolio-filters li.active a,
 .portfolio-filters li.active a:hover {
-  background-color: #466841;
+  background-color: #283747;
   color: #fff;
 }
 
@@ -1500,7 +1500,7 @@ body > footer .copyrights {
   left: 0;
   right: 0;
   bottom: 0;
-  background-color: #466841;
+  background-color: #283747;
   opacity: 0.8;
   z-index: 0;
 }
@@ -1627,7 +1627,7 @@ body > footer .copyrights {
 
 .blog-card .post-date span {
   display: block;
-  color: #466841;
+  color: #283747;
   line-height: 1;
   font-size: 12px;
   margin: 0;
@@ -1767,7 +1767,7 @@ body > footer .copyrights {
 .contact-info-block i {
   position: relative;
   font-size: 18px;
-  color: #466841;
+  color: #283747;
   text-align: center;
   line-height: 36px;
 }
@@ -1817,7 +1817,7 @@ body > footer .copyrights {
 .testimonials.owl-carousel .owl-nav .owl-prev:hover,
 .testimonials.owl-carousel .owl-nav .owl-next:hover {
   color: #fff;
-  background-color: #466841;
+  background-color: #283747;
 }
 
 .testimonials.owl-carousel .owl-nav .owl-prev:before,
@@ -1988,7 +1988,7 @@ body > footer .copyrights {
 }
 
 .ajax-page-nav > div.nav-item a:hover {
-  color: #466841;
+  color: #283747;
 }
 
 .ajax-page-nav > div.nav-item a i {
@@ -2033,7 +2033,7 @@ body > footer .copyrights {
 }
 
 .project-general-info .fa {
-  color: #466841;
+  color: #283747;
   margin-right: 5px;
 }
 
@@ -2060,7 +2060,7 @@ body > footer .copyrights {
 
 .share-buttons a:hover {
   color: #fff;
-  background-color: #466841;
+  background-color: #283747;
   border-color: transparent;
 }
 
@@ -2146,7 +2146,7 @@ body > footer .copyrights {
 
 blockquote {
   margin: 20px 0;
-  border-left: 3px solid #466841;
+  border-left: 3px solid #283747;
   font-style: italic;
 }
 
@@ -2284,7 +2284,7 @@ blockquote .small {
     top: 50px;
     z-index: 1001;
     overflow: auto;
-    background-color: #466841;
+    background-color: #283747;
     -webkit-box-shadow: 0px 10px 10px 0px rgba(0, 0, 0, 0.2);
     -moz-box-shadow: 0px 10px 10px 0px rgba(0, 0, 0, 0.2);
     box-shadow: 0px 10px 10px 0px rgba(0, 0, 0, 0.2);
@@ -2319,7 +2319,7 @@ blockquote .small {
     left: 0;
     right: 0;
     height: 50px;
-    background-color: #466841;
+    background-color: #283747;
     -webkit-box-shadow: 0px 3px 8px 0px rgba(0, 0, 0, 0.1);
     -moz-box-shadow: 0px 3px 8px 0px rgba(0, 0, 0, 0.1);
     box-shadow: 0px 3px 8px 0px rgba(0, 0, 0, 0.1);
